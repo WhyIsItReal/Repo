@@ -33,7 +33,7 @@ fieldset>a[href] {
     outline: 0;
     padding: 0;
     text-decoration: none;
-    vertical-align: baseline
+    vertical-align: baseline;
 }
 .clearfix:after,
 fieldset>a>div>div:after {
