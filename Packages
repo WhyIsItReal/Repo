@@ -1,0 +1,15 @@
+Package: com.alazybrick.Liquid
+Version: 0.1~beta-1
+Architecture: iphoneos-arm
+Maintainer: WhyIsItReal <whyisitreal@outlook.com>
+Depends: com.anemonetheming.anemone
+Filename: debs//com.alazybrick.Liquid
+Size: <deb in bytes>
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: Themes
+Description: Liquid by aLazyBrick (Lenny). This theme contains both Liquid Neue and Liquid Revamp, and is currently in a beta stage.
+Author: aLazyBrick
+Depiction: https://whyisitreal.github.io/deps/liquid.html
+Name: Liquid

@@ -104,7 +104,7 @@ body.white {
     background-color: #fff
 }
 .cytyle-faux body.pinstripe {
-    background: #c7ced5 url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAABCAIAAACdaSOZAAAAFElEQVQIHWM4euYKErp0+tINIAIAuHQQ4rDrv5YAAAAASUVORK5CYII=')
+    background: #c7ced5 url('/arrow.png')
 }
 .cytyle-flat body.pinstripe {
     background: #efeff4
