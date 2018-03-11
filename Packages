@@ -11,5 +11,5 @@ SHA256: DE700CEEA89C4722B32EDC4823A88551AF5286A5BCEC371808CD0CA03976891B
 Section: Tweaks
 Description: Enables the built-in lyrics for Spotify. Native implementation. Enables for every track, even those without lyrics. Works best with IamNoGenius installed (included as a dependency for now). Works on Spotify 8.4.23 (latest as of Mar 10 2018).
 Author: WhyIsItReal
-Depiction: https://whyisitreal.github.io/deps/lfs.html
+Depiction: https://whyisitreal.github.io/deps/lyricsforspotify.html
 Name: Lyrics For Spotify
