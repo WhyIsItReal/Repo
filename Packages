@@ -1,15 +1,15 @@
-Package: com.alazybrick.Liquid
+Package: com.whyisitreal.lyricsforspotify
 Version: 0.1~beta-1
 Architecture: iphoneos-arm
 Maintainer: WhyIsItReal <whyisitreal@outlook.com>
-Depends: com.anemonetheming.anemone
-Filename: debs//com.alazybrick.Liquid
-Size: <deb in bytes>
-MD5sum: <md5 hash of deb>
-SHA1: <sha1 hash of deb>
-SHA256: <sha256 of deb>
-Section: Themes
-Description: Liquid by aLazyBrick (Lenny). This theme contains both Liquid Neue and Liquid Revamp, and is currently in a beta stage.
-Author: aLazyBrick
-Depiction: https://whyisitreal.github.io/deps/liquid.html
-Name: Liquid
+Depends: mobilesubstrate, com.ruler225.iamnogenius
+Filename: debs/com.whyisitreal.lyricsforspotify_0.0.1-4+debug_iphoneos-arm.deb
+Size: 6840
+MD5sum: 5BF6E1A0E2EA6D74D1114E9544BB6983
+SHA1: 0C26C61ED6317C9C920ED440AD586584AC3DBADD
+SHA256: DE700CEEA89C4722B32EDC4823A88551AF5286A5BCEC371808CD0CA03976891B
+Section: Tweaks
+Description: Enables the built-in lyrics for Spotify. Native implementation. Enables for every track, even those without lyrics. Works best with IamNoGenius installed (included as a dependency for now). Works on Spotify 8.4.23 (latest as of Mar 10 2018).
+Author: WhyIsItReal
+Depiction: https://whyisitreal.github.io/deps/lfs.html
+Name: Lyrics For Spotify
