@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: WhyIsItReal <whyisitreal@outlook.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.whyisitreal.lyricsforspotify_0.2~beta-1_iphoneos-arm.deb
-Size: 6840
+Size: 7296
 MD5sum: f4adb64585f3f822ffd313f3b3f6caff
 SHA1: 0ffa2b32097f1c3ae8e78ae71f6f24ca34e413f5
 SHA256: f6d6a1737ba3655a885bf7de73af7a3ff13447280a55e7ef99dbc419960e6271
