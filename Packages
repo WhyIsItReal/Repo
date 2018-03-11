@@ -5,8 +5,8 @@ Maintainer: WhyIsItReal <whyisitreal@outlook.com>
 Depends: mobilesubstrate, com.ruler225.iamnogenius
 Filename: ./debs/com.whyisitreal.lyricsforspotify_0.0.1-4+debug_iphoneos-arm.deb
 Size: 6840
-MD5sum: 5BF6E1A0E2EA6D74D1114E9544BB6983
-SHA1: 0C26C61ED6317C9C920ED440AD586584AC3DBADD
+MD5sum: 5bf6e1a0e2ea6d74d1114e9544bb6983
+SHA1: 0c26c61ed6317c9c920ed440ad586584ac3dbadd
 SHA256: DE700CEEA89C4722B32EDC4823A88551AF5286A5BCEC371808CD0CA03976891B
 Section: Tweaks
 Description: Enables the built-in lyrics for Spotify. Native implementation. Enables for every track, even those without lyrics. Works best with IamNoGenius installed (included as a dependency for now). Works on Spotify 8.4.23 (latest as of Mar 10 2018).
