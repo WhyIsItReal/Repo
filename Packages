@@ -1,15 +1,16 @@
-Package: com.whyisitreal.lyricsforspotify
-Version: 0.2~beta-1
+Package: com.whyisitreal.lyrify
+Version: 0.3
 Architecture: iphoneos-arm
 Maintainer: WhyIsItReal <whyisitreal@outlook.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.whyisitreal.lyricsforspotify_0.2~beta-1_iphoneos-arm.deb
-Size: 7396
-MD5sum: f4adb64585f3f822ffd313f3b3f6caff
-SHA1: 0ffa2b32097f1c3ae8e78ae71f6f24ca34e413f5
-SHA256: f6d6a1737ba3655a885bf7de73af7a3ff13447280a55e7ef99dbc419960e6271
+Replaces: com.whyisitreal.lyricsforspotify
+Filename: ./debs/com.whyisitreal.lyrify_0.3_iphoneos-arm.deb
+Size: 12612
+MD5sum: db1b2ce8e6fe2a89c9dd72de230f438b
+SHA1: 8110c20507492819893fb37758f54a215be540e9
+SHA256: b8db61531d013bfa9bfd1c187769a7401b2ef9be532d28fffeeecbbec7bb51e3
 Section: Tweaks
-Description: Enables the built-in lyrics for Spotify. Native implementation. Enables for every track, even those without lyrics. Works best with IamNoGenius installed (included as a dependency for now). Works on Spotify 8.4.23 (latest as of Mar 10 2018).
+Description: Enables the built-in lyrics for Spotify. Native implementation. Enables for every track by default, even those without lyrics. Works on Spotify 8.4.23 (latest as of Mar 10 2018).
 Author: WhyIsItReal
 Depiction: https://whyisitreal.github.io/deps/lyricsforspotify.html
-Name: Lyrics For Spotify
+Name: Lyrify
