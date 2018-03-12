@@ -1,14 +1,14 @@
 Package: com.whyisitreal.lyrify
-Version: 0.3
+Version: 0.3~beta-1
 Architecture: iphoneos-arm
 Maintainer: WhyIsItReal <whyisitreal@outlook.com>
 Depends: mobilesubstrate
 Replaces: com.whyisitreal.lyricsforspotify
-Filename: ./debs/com.whyisitreal.lyrify_0.3_iphoneos-arm.deb
-Size: 12612
-MD5sum: db1b2ce8e6fe2a89c9dd72de230f438b
-SHA1: 8110c20507492819893fb37758f54a215be540e9
-SHA256: b8db61531d013bfa9bfd1c187769a7401b2ef9be532d28fffeeecbbec7bb51e3
+Filename: ./debs/com.whyisitreal.lyrify_0.3~beta-1_iphoneos-arm.deb
+Size: 12618
+MD5sum: 34af8078e67777a423dfe91955dbd271
+SHA1: ebadb21e7eb7ffe261a2c4c1bcbe493dd920fddb
+SHA256: a95b14aecb22119f0bab05b5839120a6efcc43d4624085d2824c3161d48a0ebb
 Section: Tweaks
 Description: Enables the built-in lyrics for Spotify. Native implementation. Enables for every track by default, even those without lyrics. Works on Spotify 8.4.23 (latest as of Mar 10 2018).
 Author: WhyIsItReal
