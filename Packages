@@ -1,10 +1,11 @@
 Package: com.whyisitreal.lyrify
 Version: 0.3~beta-1
 Architecture: iphoneos-arm
-Maintainer: WhyIsItReal <whyisitreal@outlook.com>
+Maintainer: WhyIsItReal
+Installed-Size: 250
 Depends: mobilesubstrate
 Replaces: com.whyisitreal.lyricsforspotify
-Filename: ./debs/com.whyisitreal.lyrify_0.3~beta-1_iphoneos-arm.deb
+Filename: debs/com.whyisitreal.lyrify_0.3~beta-1_iphoneos-arm.deb
 Size: 12618
 MD5sum: 34af8078e67777a423dfe91955dbd271
 SHA1: ebadb21e7eb7ffe261a2c4c1bcbe493dd920fddb
@@ -14,3 +15,4 @@ Description: Enables the built-in lyrics for Spotify. Native implementation. Ena
 Author: WhyIsItReal
 Depiction: https://whyisitreal.github.io/deps/lyricsforspotify.html
 Name: Lyrify
+
