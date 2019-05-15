@@ -33,7 +33,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "*Beta*: Use at your own risk\n\nEnables the built-in lyrics for Spotify. Native implementation. Enables for every track by default, even those without lyrics."
+                    "markdown": "Enables the built-in lyrics for Spotify. Native implementation. Enables for every track by default, even those without lyrics."
                 },
                 {
                     "title": "Check out the source code here!",
@@ -99,6 +99,9 @@
                     "class": "DepictionMarkdownView"
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "title": "0.3",
                     "useBoldText": true,
                     "useBottomMargin": true,
@@ -112,6 +115,9 @@
                     "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released long ago...</small>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "title": "0.2",
