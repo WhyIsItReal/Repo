@@ -4,15 +4,16 @@
     "tintColor": "green",
     "tabs": [{
             "tabname": "Description",
-            "views": [{
+            "views": [
+                {
                     "itemCornerRadius": 6,
                     "itemSize": "{160, 275}",
                     "screenshots": [{
                         "accessibilityText": "Lyrify on iPhone XR",
-                        "url": "https://whyisitreal.github.io/Screens/Lyrfit1.png",
-                        "fullSizeURL": "https://whyisitreal.github.io/Screens/Lyrfit1.png"
+                        "url": "https://whyisitreal.github.io/screens/LyrifyNew.png",
+                        "fullSizeURL": "https://whyisitreal.github.io/screens/LyrifyNew.png"
                     }],
-                    "class": "DepictionScreenshotsView"
+                    "class": "DepictionScreenshotView"
                 },
                 {
                     "class": "DepictionsMarkdownView",
