@@ -1,0 +1,80 @@
+{
+    "minVersion": "1.0",
+    "headerImage": "https://whyisitreal.github.io/SileoHeaders/Lyrify.png",
+    "tintColor": "green",
+    "tabs": [{
+            "tabname": "Description",
+            "views": [{
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275}",
+                    "screenshots": [{
+                        "accessibilityText": "Lyrify on iPhone XR",
+                        "url": "https://whyisitreal.github.io/Screens/Lyrfit1.png",
+                        "fullSizeURL": "https://whyisitreal.github.io/Screens/Lyrfit1.png"
+                    }],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "class": "DepictionsMarkdownView",
+                    "markdown": "*Beta*: Use at your own risk\n\nEnables the built-in lyrics for Spotify. Native implementation. Enables for every track by default, even those without lyrics."
+                },
+                {
+                    "title": "Check out the source code here!",
+                    "action": "https://github.com/WhyIsItReal/whyisitreal.github.io/",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Latest Version",
+                    "class": "DepictionHeaderView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.0.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "5/12/19",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Compatibility",
+                    "text": "iOS 12.0 - 12.1.2",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "FREE",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "WhyIsItReal",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Github",
+                    "action": "https://github.com/WhyIsItReal/",
+                    "class": "DepictionTableTextView"
+                }
+            ],
+            "class":"DepictionStackView"
+        },
+        {
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "title":"1.0.0",
+                    "useBoldText":true,
+                    "useBottomMargin":true,
+                    "class":"DepictionSubheaderView"
+                }
+            ],
+            "class":"DepictionStackView"
+        }
+    ],
+    "class":"DepictionTabView"
+}
