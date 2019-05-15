@@ -4,8 +4,7 @@
     "tintColor": "green",
     "tabs": [{
             "tabname": "Description",
-            "views": [
-                {
+            "views": [{
                     "itemCornerRadius": 6,
                     "itemSize": "{160, 275}",
                     "screenshots": [{
@@ -13,10 +12,20 @@
                         "url": "https://whyisitreal.github.io/screens/LyrifyNew.png",
                         "fullSizeURL": "https://whyisitreal.github.io/screens/LyrifyNew.png"
                     }],
-                    "class": "DepictionScreenshotView"
+                    "ipad": {
+                        "itemCornerRadius": 9,
+                        "itemSize": "{320, 550.8266666666667}",
+                        "screenshots": [{
+                            "accessibilityText": "Showcase",
+                            "url": "https://whyisitreal.github.io/screens/LyrifyNew.png",
+                            "fullSizeURL": "https://whyisitreal.github.io/screens/LyrifyNew.png"
+                        }],
+                        "class": "DepictionScreenshotView"
+                    },
+                    "class": "DepictionScreenshotsView"
                 },
                 {
-                    "class": "DepictionsMarkdownView",
+                    "class": "DepictionMarkdownView",
                     "markdown": "*Beta*: Use at your own risk\n\nEnables the built-in lyrics for Spotify. Native implementation. Enables for every track by default, even those without lyrics."
                 },
                 {
@@ -38,7 +47,7 @@
                 },
                 {
                     "title": "Released",
-                    "text": "5/12/19",
+                    "text": "5/16/19",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -62,20 +71,28 @@
                     "class": "DepictionTableTextView"
                 }
             ],
-            "class":"DepictionStackView"
+            "class": "DepictionStackView"
         },
         {
             "tabname": "Changelog",
-            "views": [
+            "views": [{
+                    "title": "1.0.0",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
                 {
-                    "title":"1.0.0",
-                    "useBoldText":true,
-                    "useBottomMargin":true,
-                    "class":"DepictionSubheaderView"
+                    "markdown": "Initial full release. Includes support for A12 devices and the new Spotify interface.",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 5/16/19</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
                 }
             ],
-            "class":"DepictionStackView"
+            "class": "DepictionStackView"
         }
     ],
-    "class":"DepictionTabView"
+    "class": "DepictionTabView"
 }
