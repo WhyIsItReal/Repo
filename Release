@@ -1,8 +1,8 @@
-Origin: WhyIsItReal's Semi-public Beta Repo
+Origin: WhyIsItReal's Beta Repo
 Label: WhyIsItReal's Repo
 Suite: stable
-Version: 0.1~b1
+Version: 0.1
 Codename: stable
 Architectures: iphoneos-arm
 Components: main
-Description: WhyIsItReal's Semi-public Beta Repo
+Description: WhyIsItReal's Beta Repo
