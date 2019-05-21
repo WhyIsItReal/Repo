@@ -1,0 +1,106 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://whyisitreal.github.io/SileoHeaders/Newsless.png",
+    "tintColor": "green",
+    "tabs": [{
+            "tabname": "Description",
+            "views": [{
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Fully expanded lyrics",
+                            "url": "https://whyisitreal.github.io/screens/Newsless1.png",
+                            "fullSizeURL": "https://whyisitreal.github.io/screens/Newsless1.png"
+                        },
+                        {
+                            "accessibilityText": "Karaoke mode",
+                            "url": "https://whyisitreal.github.io/screens/Newsless2.png",
+                            "fullSizeURL": "https://whyisitreal.github.io/screens/Newsless2.png"
+                        },
+                        {
+                            "accessibilityText": "Default (unexpanded) view",
+                            "url": "https://whyisitreal.github.io/screens/Newsless2.png",
+                            "fullSizeURL": "https://whyisitreal.github.io/screens/Newsless2.png"
+                        },
+                        {
+                            "accessibilityText": "Fully expanded lyrics (different song)",
+                            "url": "https://whyisitreal.github.io/screens/Newsless4.png",
+                            "fullSizeURL": "https://whyisitreal.github.io/screens/Newsless4.png"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**Removes articles from Sileo \"News\" tab**"
+                },
+                {
+                    "title": "Check out the source code here!",
+                    "action": "https://github.com/WhyIsItReal/Newsless/",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Latest Version",
+                    "class": "DepictionHeaderView"
+                },
+                {
+                    "title": "Version",
+                    "text": "0.0.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "5/21/19",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Compatibility",
+                    "text": "iOS 11.0 - 12.1.2",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "WhyIsItReal",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Github",
+                    "action": "https://github.com/WhyIsItReal/",
+                    "class": "DepictionTableTextView"
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "title": "0.0.1",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Initial release. Beta",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 5/16/19</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "class": "DepictionTabView"
+}
