@@ -78,8 +78,8 @@
                 },
                 {
                     "URL": "https://whyisitreal.github.io/CydiaIcon.png",
-                    "height": 44,
-                    "width": 44,
+                    "height": 64,
+                    "width": 64,
                     "alignment": 1,
                     "cornerRadius": 0,
                     "class": "DepictionImageView"
