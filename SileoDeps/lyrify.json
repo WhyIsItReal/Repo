@@ -7,8 +7,7 @@
             "views": [{
                     "itemCornerRadius": 6,
                     "itemSize": "{160, 275}",
-                    "screenshots": [
-                        {
+                    "screenshots": [{
                             "accessibilityText": "Fully expanded lyrics",
                             "url": "https://whyisitreal.github.io/screens/LyrifyNew1.png",
                             "fullSizeURL": "https://whyisitreal.github.io/screens/LyrifyNew1.png"
@@ -76,14 +75,21 @@
                     "title": "Github",
                     "action": "https://github.com/WhyIsItReal/",
                     "class": "DepictionTableTextView"
+                },
+                {
+                    "URL": "https://whyisitreal.github.io/CydiaIcon.png",
+                    "height": 44,
+                    "width": 44,
+                    "alignment": 1,
+                    "cornerRadius": 0,
+                    "class": "DepictionImageView"
                 }
             ],
             "class": "DepictionStackView"
         },
         {
             "tabname": "Changelog",
-            "views": [
-                {
+            "views": [{
                     "title": "1.0.0",
                     "useBoldText": true,
                     "useBottomMargin": true,
