@@ -3,9 +3,16 @@
     "itemSize": "{263, 148}",
     "itemCornerRadius": 10,
     "banners": [{
-        "url": "https://whyisitreal.github.io/SileoHeaders/Lyrify.png",
-        "title": "Lyrify",
-        "package": "com.whyisitreal.lyrify",
-        "hideShadow": false
-    }]
+            "url": "https://whyisitreal.github.io/SileoHeaders/Lyrify.png",
+            "title": "Lyrify",
+            "package": "com.whyisitreal.lyrify",
+            "hideShadow": false
+        },
+        {
+            "url": "https://whyisitreal.github.io/SileoHeaders/Newsless.png",
+            "title": "Newsless",
+            "package": "com.whyisitreal.newsless",
+            "hideShadow": false
+        }
+    ]
 }
