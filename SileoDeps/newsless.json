@@ -32,7 +32,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<p style=\"font-weight:bold\">Removes articles from Sileo \"News\" tab</p><p><span style=\"color:red\">Warning</span>: this is very much in beta. Scrolling *does not* work correctly right now, I'm working on fixing that right now.</p>",
+                    "markdown": "<p style=\"font-weight:bold\">Removes articles from Sileo \"News\" tab</p><p><span style=\"color:red;font-weight:bold\">Warning:</span> this is very much in beta. Scrolling <span style=\"font-style:italic\">does not</span> work correctly right now, I'm working on fixing that right now.</p>",
                     "useRawFormat":true
                 },
                 {
