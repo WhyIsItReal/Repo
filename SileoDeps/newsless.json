@@ -32,7 +32,8 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "**Removes articles from Sileo \"News\" tab**"
+                    "markdown": "<p style=\"font-weight:bold\">Removes articles from Sileo \"News\" tab</p><p><span style=\"color:red\">Warning</span>: this is very much in beta. Scrolling *does not* work correctly right now, I'm working on fixing that right now.</p>",
+                    "useRawFormat":true
                 },
                 {
                     "title": "Check out the source code here!",
